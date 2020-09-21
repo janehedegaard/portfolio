@@ -22,8 +22,8 @@ body {
   top: 0 !important;
   width: 100%!important;
   z-index: -3 !important;
-  background-color: #E9E2D9 !important;
-  padding: 1% !important;
+  background-color:#E9E2D9 !important;
+  padding: 0% !important;
 }
 
 header {
@@ -33,6 +33,10 @@ header {
  
 }
 
+.ast-header-break-point .main-header-bar .ast-button-wrap .menu-toggle {
 
+    /* border-radius: 0px !important; */
+    border: none;
+}
 
   
