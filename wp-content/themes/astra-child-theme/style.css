@@ -1,0 +1,38 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    http://janehedegaard.com/astra-child-theme/
+ Description:  Astra Child Theme
+ Author:       Jane Hedegaard
+ Author URI:   http://portfolio.janehedegaard.com
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachild
+*/
+
+
+body {
+  background-color: #E9E2D9 !important;
+}
+
+.main-header-bar { overflow: hidden !important;
+  position: fixed !important;
+  top: 0 !important;
+  width: 100%!important;
+  z-index: -3 !important;
+  background-color: #E9E2D9 !important;
+  padding: 1% !important;
+}
+
+header {
+   font-size: 170% !important;
+   text-transform: uppercase;
+	font-weight: 400 !important;
+ 
+}
+
+
+
+  
